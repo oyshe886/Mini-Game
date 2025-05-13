@@ -1,2 +1,2 @@
-# Snake-Water-Gun game in Python
+# Trying to make basic game with Python
 
